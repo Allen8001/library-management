@@ -1,23 +1,35 @@
-# Library Management System
+# 📚 Library Management System
 
-This is my Java Backend learning project.
+A backend project built with Java and Spring Boot as part of my journey to become a Java Backend Developer.
 
-## Tech Stack
+## 🚀 Tech Stack
 
-- Java 26
-- Spring Boot 4
+- Java 21 (planned migration)
+- Spring Boot
 - Maven
 - REST API
+- Git & GitHub
 
-## Features
+## ✅ Features
 
 - Get all books
 - REST API
-- JSON Response
+- JSON response
 
-## Learning Progress
+## 📅 Learning Progress
 
-- ✅ Day 1 - HTTP & REST API
-- ✅ Day 2 - Java OOP
-- ✅ Day 3 - Spring Boot Basics
-- ✅ Day 4 - First REST API
+- Day 1 - HTTP & REST API
+- Day 2 - Java OOP
+- Day 3 - Spring Boot Basics
+- Day 4 - First REST API
+
+## 📌 Roadmap
+
+- [x] Create Spring Boot project
+- [x] First REST API
+- [ ] Service Layer
+- [ ] Repository Layer
+- [ ] MySQL
+- [ ] CRUD APIs
+- [ ] Docker
+- [ ] AWS Deployment
